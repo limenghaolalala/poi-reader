@@ -11,6 +11,6 @@
     <title>import page</title>
 </head>
 <body>
-success!
+success! please see Console log!
 </body>
 </html>
